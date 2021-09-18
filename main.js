@@ -1,7 +1,6 @@
 function preload(){
-    img=loadImage('https://www.happybirthdaymsg.com/wp-content/uploads/2016/01/happy-birthday-image-10.jpg');
+    img=loadImage('https://media.istockphoto.com/vectors/happy-birthday-greeting-card-design-template-with-cute-wreath-vector-id637316620')
 }
-
 function setup(){
     canvas = createCanvas(650,450);
     canvas.position(500,250);
